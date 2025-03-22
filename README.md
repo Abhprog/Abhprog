@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Abdullah!;A+mobile+proficient+cross-platform+developer.">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Abdullah!;An+innovative+mobile+cross-platform.">
 </p>
 
 ## Projects
