@@ -1,7 +1,7 @@
 Hello! I'm Abdullah 🙌
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Hello, I'm+Abdullah!;A+mobile+cross+platform+developer;Specialist+in+mobile+cross-platform+development">
+<img src="https://readme-typing-svg.demolab.com/?lines=Hello, I'm+Abdullah!;A+mobile+cross+platform+developer.;Specialist+in+mobile+cross-platform+development.">
 </p>
 
 ## Projects
