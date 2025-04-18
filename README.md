@@ -7,8 +7,8 @@
 - [Project 2](https://github.com/Abhprog/project2)
 
 ## Connect with me
-- [LinkedIn](https://www.linkedin.com/in/abhprog)
-- [Twitter](https://twitter.com/abhprog)
+- [LinkedIn](https://www.linkedin.com/in/abdullah-awad-092764146)
+- [ X ](https://x.com/abdullahjubouri)
 
 
 
@@ -73,6 +73,6 @@ Here are some of the projects I've worked on:
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/abdullah-awad-092764146)
-- [Twitter](https://twitter.com/abhprog)
+- [ X ](https://x.com/abdullahjubouri)
 
 Thank you for visiting my profile! Feel free to reach out if you have any questions or collaboration ideas.
